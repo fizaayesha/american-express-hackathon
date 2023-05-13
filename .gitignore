@@ -2,3 +2,4 @@
 .netlify
 # misc
 .vscode
+#.env
